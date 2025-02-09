@@ -1,0 +1,7 @@
+name: tidi-yt-demo-1
+description: A Go program to deploy a static website on Azure
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: static-website-azure-go

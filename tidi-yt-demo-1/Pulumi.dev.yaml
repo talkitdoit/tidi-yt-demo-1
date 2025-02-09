@@ -1,0 +1,5 @@
+config:
+  azure-native:location: WestUS
+  tidi-yt-demo-1:errorDocument: error.html
+  tidi-yt-demo-1:indexDocument: index.html
+  tidi-yt-demo-1:path: ./www
